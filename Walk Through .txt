@@ -1,0 +1,12 @@
+My website has three pages: home, projects and resume that linked via a navigation bar at the top of each page. 
+On the resume page, there is a link to download a pdf of it. I also included pictures of my self and of my projects 
+that I worked on. The home page and the projects are styles by the same sheet (homecss) while the resume page is styled with 'resumecss' file. 
+
+For the most part I was able to style it to what I want. 
+A few things I want to fix included the sizing of the picture. I did not quite figure out to allow my picture to resize 
+properly with the window size. In addition, there are a few line spacing issues between elements of the resume. 
+Going forward, I would have liked to add more information in the projects section and also play around 
+background images. Also I think my html code could be better optimized as I ended up using two style-sheets 
+for the three web-pages when it would have been better to use one. 
+
+This was a great project to work on and I learnt lots and look forward to knowoing more. 

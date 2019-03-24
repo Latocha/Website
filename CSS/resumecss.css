@@ -1,0 +1,68 @@
+
+
+/**/
+/* Style Navigation Bar */
+ul.nav { list-style-type: none; margin: 0; padding: 0; overflow:auto; background-color : #737373;}
+li.nav1 { float: left; border-right: 1px solid #bbb;}
+li a { display: block; padding:14px 24px ; color: white; text-align: center; text-decoration: none; font-family:Arial;}
+li a:hover {background-color:#111;}
+
+
+
+/* Body*/ 
+body{ font-size : 18px; color : black; 
+		font-family:Tw Cen MT,Arial, Times New Roman, sans-serif;
+		line-height: 1.2;
+		background-color:#ffe0cc;
+		margin: 0px;
+
+	}	
+	
+/*list styling*/
+ul.exp {list-style-type: disc;}
+
+ul.TS { list-style-type: none; margin: 0; padding: 0; overflow:auto; background-color : none;}
+li.TS { float:left;border-right: 1px solid #bbb;}
+	
+/*link to download resume*/
+#dresume {	text-align: center; 
+			font-size: 24px; 
+			margin: auto;
+			margin-top: 25px;
+			width: 25%;
+			padding: 14px 14px; 
+			background-color: #737373;
+			}	
+#dresume a {color:white;text-transform:uppercase;}		
+#dresume:hover {background-color: #111;}	
+
+div{
+	padding: 25px;
+	margin: 50px 100px;
+	border-style: solid;
+	border-width: thin;
+	background-color: beige;}
+}	
+div h2{text-align: center;}
+h2{	text-align: center; margin: 10px;}
+
+#email, #LinkedIn {text-align: center;font-size:20px;}
+#email a, #LinkedIn a { color: black;}
+
+/*#Heading, #Sum, #ed, #RCP, #EE{ border-bottom: 5px solid #737373;}*/
+h3{border-bottom: 5px solid #737373; font-size: 18px; text-transform: uppercase;}
+
+h4.title{display:inline-block;}
+h4.date{float: right; }
+
+#gpa{display:inline-block;}
+#gdate{float: right;}
+#gpa,#gdate,#sname{font-weight:bold;}
+p{text-align: justify; margin: 10px;}
+
+
+
+
+
+
+ 
