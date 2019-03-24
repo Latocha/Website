@@ -12,8 +12,8 @@
 	<nav class = "navigation">
 		<ul>
 			<li><a href="./index.html">Home</a></li>
-			<li><a href="Resume.html">Resume</a></li>
-			<li><a href="Projects.html">Projects</a></li>
+			<li><a href="./HTML/Resume.html">Resume</a></li>
+			<li><a href="./HTML/Projects.html">Projects</a></li>
 		</ul>
 	</nav>
 </header>
