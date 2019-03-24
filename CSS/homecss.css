@@ -12,6 +12,14 @@ li a:hover {background-color:#111;}
 
 #img3 img {max-height:100%; max-width:100%;}
 #img4 img {max-height:100%; max-width:100%;}
+#img5 img {max-height:100%; max-width:100%;}
+#img6 img {max-height:100%; max-width:100%;}
+
+@media screen and (max-width: 1000px ){
+	#img4, #img6{
+		float: none;
+	}
+} 
 
 /* Body*/ 
 body{ font-size : 18px; color : black; 
