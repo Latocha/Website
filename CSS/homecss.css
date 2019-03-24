@@ -10,6 +10,9 @@ li a:hover {background-color:#111;}
 #img3, #img5 {display:inline-block;margin-left:auto; margin-right:auto ;width:50%; max-width:100%; height:auto;} 
 #img4, #img6 {float:right;margin-left:auto; margin-right:auto ;width:50%; max-width:100%; height:auto;}
 
+#img3 img {max-height:100%; max-width:100%;}
+#img4 img {max-height:100%; max-width:100%;}
+
 /* Body*/ 
 body{ font-size : 18px; color : black; 
 		font-family:Tw Cen MT,Arial, Times New Roman, sans-serif;
