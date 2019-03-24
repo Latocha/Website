@@ -22,7 +22,7 @@ body{ font-size : 18px; color : black;
 ul.exp {list-style-type: disc;}
 
 ul.TS { list-style-type: none; margin: 0; padding: 0; overflow:auto; background-color : none;}
-li.TS { float:left;border-right: 1px solid #bbb;}
+li.TS { float:left;padding: 8px; border-right: 1px solid #bbb;}
 	
 /*link to download resume*/
 #dresume {	text-align: center; 
